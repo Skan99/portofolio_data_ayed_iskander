@@ -1,6 +1,6 @@
-# 📊 Portfolio de Data Science
+# 📊 Portfolio de Data
 
-Bienvenue sur mon portfolio de Data Science. Ici, je présente une sélection de projets que j'ai réalisés, reflétant mes compétences en analyse de données, en modélisation et en visualisation.
+Bienvenue sur mon portfolio de Data. Ici, je présente une sélection de projets que j'ai réalisés, reflétant mes compétences en analyse de données, en modélisation et en visualisation.
 
 ## 🧑‍💼 À propos de moi
 
